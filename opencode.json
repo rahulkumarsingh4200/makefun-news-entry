@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "makefun": {
+      "type": "remote",
+      "url": "https://make.fun/mcp",
+      "enabled": true
+    }
+  }
+}
